@@ -1,0 +1,26 @@
+.env
+__pycache__
+crypto/crypto_bot.py
+crypto/crypto_test.py
+forex/forex_data
+forex/forex_data_1m
+Markowitz Optimization/stock_data
+Markowitz Optimization/data.py
+Neural Network/altman_only
+Neural Network/stock_data
+Neural Network/v1
+Neural Network/v2
+Neural Network/v3
+Neural Network/historical_buys_1mo.csv
+Neural Network/historical_buys_1wk.csv
+Neural Network/historical_sells_1mo.csv
+Neural Network/historical_sells_1wk.csv
+Neural Network/historical_data.py
+Neural Network/metrics_at_buys.py
+Neural Network/metrics_at_sells.py
+Neural Network/model_xgb_1mo.json
+Neural Network/model_xgb_1wk.json
+Neural Network/model_xgb.json
+Neural Network/model.keras
+Neural Network/test_feedforward.py
+Neural Network/test_model.py
